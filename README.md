@@ -5,10 +5,8 @@
 
 ## 주요 프로젝트
 
-- `효도르 부탁해(PM)` : MZ들의 효도를 책임지는 모바일 어플리케이션 [HyodorBros.](https://github.com/AnthonyRyu/HyodorBros.)
-- `&color=timeAuto` : Proven random color, but is decided by time.
-- `&color=random` : Really random color. I don't know what colors are showing.
-- `&color=gradient` : Proven random gradient. List are [here](https://github.com/kyechan99/capsule-render/blob/master/src/gradient.json)
-- `&color=timeGradient` : Proven random gradient, but is decided by time.
-- `&color=_hexcode` : default(#B897FF)
-- `&color=_custom_gradient` : Custom gradient. If write as `&color=0:EEFF00,100:a82da8`, it will be converted to { 0%: 'EEFF00', 100%: 'a82da8' }. (e.g. [DEMO](https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8))
+- `효도르 부탁해(PM)` : MZ들의 효도를 책임지는 모바일 어플리케이션(2022.09 ~ 2022.12) [HyodorBros.](https://github.com/AnthonyRyu/HyodorBros.)
+- `맨체스터 유나이티드 Fan Site(PM)` : 맨체스터 유나이티드 축구팬들을 위한 웹사이트(2023.04 ~ 2023.06) [ManUnitedFanSite](https://github.com/AnthonyRyu/ManUnitedFanSite)
+- `YOLOv8활용한 Detection & Segmentation` : Raspberry Pi 4 보드 활용하여 다양한 물체 탐지(2023.09 ~ 2023.11) [AI_YOLOv8Project](https://github.com/AnthonyRyu/AI_YOLOv8Project)
+- `AI 면접 솔루션 AIT(PM)` : KT 에이블스쿨 5기 AI트랙 빅프로젝트 행동 분석 서버 개발(2024.06 ~ 2024.07) [AIT-Vision](https://github.com/AnthonyRyu/AIT-Vision)
+- `AI 면접 솔루션 AIT(PM)` : KT 에이블스쿨 5기 AI트랙 빅프로젝트 답변 분석 서버 개발(2024.06 ~ 2024.07) [AIT-Context](https://github.com/AnthonyRyu/AIT-Context)
